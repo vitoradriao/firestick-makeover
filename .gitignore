@@ -1,0 +1,6 @@
+sdk/
+platform-tools/
+dist/
+# Signing keys: never commit. Releases are signed with a key kept outside the repository.
+*.jks
+*.keystore
